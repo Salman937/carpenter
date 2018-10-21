@@ -1,0 +1,82 @@
+@media only screen and (max-width : 1200px) 
+{   
+    .employee-padding
+    {
+        padding-left: 3em;
+    }
+    .img-text
+    {
+        position: absolute;
+        top:70px;
+        left:100px;
+    }
+    .img-text h1
+    {
+        font-size: 25px;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) 
+{
+    .img-responsive {
+        margin: 0 auto;
+    }
+    .img-text
+    {
+        position: absolute;
+        top:35%;
+        left:40%;
+    }
+    .img-text h1
+    {
+        color: green;;
+        font-weight: bold;
+    }
+    .red-bg
+    {
+        padding-top: 1em;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) 
+{
+	.employee-padding
+    {
+        padding-left: 0em;
+    }
+    .description ul
+    {
+        margin-left: 0em;
+        float: left;
+        margin-top: 1em;
+    }
+    .padding
+    {
+        padding-left: 0em;
+        margin-top: 0.5em;
+    }
+    .webemai-xs
+    {
+        height: auto;
+        padding-bottom: 9em;
+    }
+    .bcrumbs
+    {
+        margin-top: 5em;
+    }
+}
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) 
+{
+    
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) 
+{
+
+}

@@ -1,0 +1,81 @@
+.new-heading
+{
+    /* vertical-align: middle; */
+    color: #8d9aa5;
+    font-size: 25px;
+    font-weight: 400;
+}
+.red-bg
+{
+    display: inline-block;
+    width: 41px;
+    height: 41px;
+    background-color: #f51e30;
+    border-radius: 50px;
+    text-align: center;
+    /* vertical-align: middle; */
+    padding-top: 0.7em;
+    /* margin-top: 0.5em; */
+}
+.sub-heading
+{
+    color: #6a7b88;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: -0.2em;
+}
+.description
+{
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: -0.5em;
+}
+.description ul
+{
+    margin-left: -1em;
+}
+hr.style13 {
+	height: 1px;
+    background-color:#40637a;
+    margin-top: 3em;
+}
+.emplyoee-img
+{
+    position: relative;
+    display:inline-block;
+}
+.hands-img
+{
+    border-radius:5px;
+    margin-top: 2.2em;
+}
+.img-text
+{
+    position: absolute;
+    top:25%;
+    left:30%;
+}
+.img-text h1
+{
+    color: white;
+    font-weight: bold;
+}
+.emp-login-btn
+{
+    border-radius: 0px;
+    font-size: 20px;
+    background-color:#40637a;
+    border: none;
+    padding: 0px 12px;
+}
+.webemail
+{
+    background-color: #d2d2d2;
+    margin-top: 1em;
+    padding-left: 1em;
+    height: auto;
+}
+.padding
+{
+    padding-left: 3em;
+}
